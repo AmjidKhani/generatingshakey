@@ -70,6 +70,11 @@ https://www.youtube.com/watch?v=oyJNP3-N838
 My generated  SHA1 Key:  EA:B1:8B:34:B1:E3:39:3F:71:87:9D:3C:79:16:F0:99:39:27:B0:C6
 
 
+(sha key can be diffrent in diffrent email accounts or andriod studio)
+but same in same andriod studio and same in firebase account if you change your account of firebase then the sha key will be diffrent.
+working with same account and use sha1 key same every time.
+
+
 
 
 
