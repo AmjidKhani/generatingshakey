@@ -1,16 +1,72 @@
-# generatingshakey
+SHA1 Key In flutter
 
-A new Flutter project.
+gradle not show :
 
-## Getting Started
+Step 1:
 
-This project is a starting point for a Flutter application.
+Expand project
 
-A few resources to get you started if this is your first Flutter project:
+step 2 :
+ expand andriod folder
+step 3
+ 
+app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+step 4:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ click gradle folder
+
+step 5 :
+
+ click on open with andriod studio editore
+
+step 6:
+
+wait
+
+step 7 :
+
+click gradle
+
+click on Elephend button
+
+click andriod
+click app
+click tasks
+
+click android
+click sigining report
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+Watch this video
+
+https://www.youtube.com/watch?v=oyJNP3-N838
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/74248353/184852000-df538183-cd78-4535-a503-bc255f870ac6.png)
+![image](https://user-images.githubusercontent.com/74248353/184852224-b7641708-e6cb-4486-8129-ea208728a551.png)
+![image](https://user-images.githubusercontent.com/74248353/184852248-64127994-78c8-4ac1-b8c3-f0a00fc98ec2.png)
+
+
+
+
+
